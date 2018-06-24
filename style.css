@@ -1,0 +1,176 @@
+body{
+padding: 0;
+margin: 0;
+background-color: black;
+/*background: #304352;  /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to right, #d7d2cc, #304352); *//* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+.navbar{
+background-color: #7a1f1f;
+
+}
+.navbar a img{
+	border-radius: 50%;
+}
+ .navbar .nav-link{
+	color: black;
+	font-size: 20px;
+}
+.navbar ul li .nav-link{
+	margin: 10px;
+}
+.navbar ul li:hover .nav-link{
+background-color: rgba(0,0,0,0.7);
+
+border-radius: 18%;
+transition: 1.5s;
+}
+.car{
+	color:black}
+.car1{
+	color: white;
+}
+.car2{
+	color: white;
+}
+.con
+{	margin-top: 20px;
+	padding: 10px;
+	
+	border-radius: 10%;
+	
+}
+.con img{
+	border-radius: 10%;
+
+}
+.container .heading{
+	color: white;
+	font-family: 'Acme', sans-serif;
+}
+.container .ques{
+	font-weight: bold;
+}
+.container .defi{
+	background-color: white;
+	padding: 30px;
+	margin: 20px;
+	font-size: 20px;
+	border:10px solid white;
+	border-radius: 20%;
+	font-family: 'Vollkorn', serif;
+
+}
+.container .codes{
+	padding: 30px;
+	background-color:  #faebeb;
+	color:black;
+	font-size: 20px;
+	border-radius: 5%;
+	font-family: 'Russo One', sans-serif;
+}
+.mod{
+	box-sizing: border-box;
+	border-radius: 20%;
+}
+.mod1{
+	background-color: black;
+	color: white;
+}
+
+#about{
+	justify-content: center;
+	align-items: center;
+}
+#about h1{
+	color: white;
+	font-family: 'Acme', sans-serif;
+}
+.pic{
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: #001f3f;
+	overflow: hidden;
+}
+.card-img-top{
+	position: relative;
+	
+}
+.pic .card-img-top{
+	border-radius: 5px;
+	transition: 5s;
+	position: relative;
+	overflow: hidden;
+
+}
+.pic:hover .card-img-top{
+	transform: scale(1.5);
+	overflow: hidden;
+}
+.icons{
+	color: white;
+	font-size: 20px;
+	box-sizing: border-box;
+	
+}
+	
+.card-block{
+	border-radius: 5px;
+	background-color: #7a1f1f;
+	position: relative;
+
+
+
+}
+.icon img{
+height: 60px;
+width: 60px;
+border-radius: 50%;
+	}
+	
+.card-block .icon .icon1:hover{
+	transition: 5s;
+transform: scale(1.5);
+	overflow: hidden;
+	
+}
+.card-block .icon .icon2:hover {
+	transition: 5s;
+transform: scale(1.5);
+	overflow: hidden;
+	
+}
+.card-block .icon .icon3:hover {
+	transition: 5s;
+transform: scale(1.5);
+	overflow: hidden;}
+	
+.card-block .icon .icon4:hover {
+	transition: 5s;
+transform: scale(1.5);
+	overflow: hidden;
+	
+}
+
+#about .h{
+	font-size: 35px;
+}
+#about {
+	
+	margin: 20px;
+	justify-content: center;
+	align-items: center;
+}
+
+.mod2{
+	margin: 10px; 
+	width: 90%;
+		padding: 10px;
+	color:black;
+	font-size: 20px;
+
+}
+
